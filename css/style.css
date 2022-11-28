@@ -37,7 +37,7 @@ body{
 	
 }
 .header{
-	background: url("../images/banner.jpg") no-repeat center top;
+	background: url("../images/sfbanner.webp") no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -54,7 +54,7 @@ body{
 	
 }
 .top-menu{
-	float:right;
+	float:left;
 }
 .top-menu ul li{
 	display: inline-block;
@@ -68,12 +68,12 @@ body{
 	
 }
 .top-menu ul li a:hover {
-	color: #ef664d;
+	color: #008aa6;
 	
 	
 }
 .top-menu ul li a.active {
-	color: #ef664d;
+	color: #008aa6;
 	font-weight: 600;
 }
 nav a {
@@ -161,7 +161,7 @@ nav a:focus {
 }
 .banner_center h2 span
 {
-	color: #ef664d;
+	color: #008aa6;
 	font-weight: 900;
 }
 .wmuSliderPagination {
@@ -189,8 +189,8 @@ ul.wmuSliderPagination {
 	-webkit-border-radius: 50%;
 }
 .wmuSliderPagination a.wmuActive {
-	background: #ef664d;
-	border-color: #ef664d;
+	background: #008aa6;
+	border-color: #008aa6;
 }
 
 .bannertop_box{
@@ -258,7 +258,7 @@ ul.wmuSliderPagination {
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-weight: 400;
-	color: #ef664d;
+	color: #008aa6;
 }
 .works-header h3 span {
 	color: #fefefe;
@@ -591,7 +591,7 @@ text-align:right;
 }
 .resp-tab-active,.resp-tab-item:hover{
   text-shadow: none;
-  color:#ef664d;
+  color:#008aa6;
 }
 .resp-tabs-container {
 	padding: 0px;
@@ -636,16 +636,16 @@ h2.resp-accordion {
 	color: #2a404e;
 }
 .about-header h3 span {
-	color: #ef664d;;
+	color: #008aa6;;
 
 }
 .about-imag {
 	float: left;
-	width:27%;
+	width: 27%;
 	margin-right:5%
 }
 .about-imag img {
-	border: 2px solid #ef664d;
+	border: 2px solid #008aa6;
 	border-radius: 103px;
 }
 .about-text {
